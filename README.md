@@ -629,7 +629,7 @@ If you find this project helpful, please consider:
 
 ---
 
-**Made with ❤️ by [MEHEDYK](https://github.com/mehedyk)**
+**Made by [MEHEDYK](https://github.com/mehedyk)**
 
 ### Show Your Support
 
@@ -637,7 +637,7 @@ If this project helped you, please consider giving it a ⭐ on GitHub!
 
 ---
 
-*Last Updated: October 2024*
+*Last Updated: October 2025*
 
 **Version 1.0.0** | [Changelog](CHANGELOG.md) | [Documentation](docs/) | [Issues](https://github.com/mehedyk/galacticos-super-shop/issues)
 
